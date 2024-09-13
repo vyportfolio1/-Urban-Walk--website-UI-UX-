@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+p{
+    color: #979797;
+    font-size: 15px;
+}
+
+.bg-main{
+    background-color: #3869E2;
+}
+
+.hover-btn{
+    background-color: #325FCB;
+}
+
+ .pop{
+    font-family: "Poppins", sans-serif;
+ }
+
+.annie{
+    font-family: "Annie Use Your Telescope", cursive;
+}
+
