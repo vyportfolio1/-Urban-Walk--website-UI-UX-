@@ -5,8 +5,11 @@
     font-family: "Poppins", sans-serif;
 }
 p{
-    color: #979797;
     font-size: 15px;
+}
+
+h1{
+    font-size: 25px; 
 }
 
 .bg-main{
