@@ -28,3 +28,36 @@ h1{
     font-family: "Annie Use Your Telescope", cursive;
 }
 
+.bg-or{
+    background-color: #FB5711;
+}
+
+.bg-gr{
+    background-color: #F6F6F6;
+}
+
+.bg-bl{
+    background-color: #1E1E1E;
+}
+
+.bg-YA{
+    background-color: #FAD43E;
+}
+
+.bg-blu{
+    background-color: #96E0FF;
+}
+
+.bg-or{
+    background-color: #FB5711;
+}
+
+.bg-grey{
+    background-color: #F6F6F6;
+}
+
+.text-stroke-black {
+    -webkit-text-stroke: 1px black;
+    color: white; 
+  }
+
